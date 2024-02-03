@@ -1,0 +1,14 @@
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.csproj.CoreCompileInputs.cache
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\bin\Debug\net8.0\Tarea C# 1.exe
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\bin\Debug\net8.0\Tarea C# 1.deps.json
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\bin\Debug\net8.0\Tarea C# 1.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\bin\Debug\net8.0\Tarea C# 1.dll
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\bin\Debug\net8.0\Tarea C# 1.pdb
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.dll
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\refint\Tarea C# 1.dll
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.pdb
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\Tarea C# 1.genruntimeconfig.cache
+C:\Users\enman\OneDrive\Escritorio\UNIVERSIDAD\QUINTO CUATRIMESTRE\Tarea C# 1\Tarea C# 1\obj\Debug\net8.0\ref\Tarea C# 1.dll
